@@ -1,0 +1,150 @@
+{
+  "users": [
+    {
+      "id": "bf9f",
+      "fullName": "anzal",
+      "IdNumber": "2222222222",
+      "gender": "Female",
+      "age": "19",
+      "email": "anzal@gmail",
+      "phoneNumber": "010101010101",
+      "goal": "burn fat",
+      "weight": "50"
+    },
+    {
+      "id": "b242",
+      "fullName": "ali",
+      "IdNumber": "2222222222",
+      "gender": "Male",
+      "age": "19",
+      "email": "ali@gmail.com",
+      "phoneNumber": "010101010101",
+      "weight": "50",
+      "goal": "loss weight",
+      "membershipPlan": "Monthly Plan - 1500 ksh/Per Month",
+      "bankAccountNo": "334343343434",
+      "accountPin": "1234"
+    },
+    {
+      "id": "71d9",
+      "fullName": "osman",
+      "IdNumber": "121212",
+      "gender": "Male",
+      "age": "23",
+      "email": "osman@gmail.com",
+      "phoneNumber": "010101010101",
+      "weight": "60",
+      "goal": "osmaaaaaaaaaan",
+      "membershipPlan": "Monthly Plan - 1500 ksh/Per Month",
+      "bankAccountNo": "334343343434",
+      "accountPin": "12334"
+    },
+    {
+      "id": "90fc",
+      "fullName": "hussein nur",
+      "IdNumber": "32345675",
+      "gender": "Male",
+      "age": "30",
+      "email": "husseinnur8073@gmail.com",
+      "phoneNumber": "0722578453",
+      "weight": "60",
+      "goal": "to kill aden abdi from balambala",
+      "membershipPlan": "Monthly Plan - 1500 ksh/Per Month",
+      "bankAccountNo": "12343565290",
+      "accountPin": "1900"
+    },
+    {
+      "id": "e3b5",
+      "fullName": "adesh",
+      "IdNumber": "11111",
+      "gender": "Male",
+      "age": "23",
+      "email": "aden@gmail.com",
+      "phoneNumber": "0723423256",
+      "weight": "60",
+      "goal": "qqqqqqq",
+      "membershipPlan": "Monthly Plan - 1500 ksh/Per Month",
+      "bankAccountNo": "334343343434",
+      "accountPin": "122121"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "1",
+      "name": "Basic",
+      "price": "200",
+      "duration": "1 month"
+    }
+  ],
+  "programs": [
+    {
+      "id": "1",
+      "name": "swimming",
+      "description": "every friday we should go for swimming",
+      "published": true
+    },
+    {
+      "id": "484f",
+      "name": "running",
+      "description": "every morning we should have early running out ",
+      "published": true
+    },
+    {
+      "id": "a47c",
+      "name": "CrossFit Gyms",
+      "description": "CrossFit is a popular type of gym program that combines strength, cardio, and coordinated movements into a high-intensity workout session.",
+      "published": true
+    },
+    {
+      "id": "324b",
+      "name": "Strength Training Program",
+      "description": "Build muscle and increase strength with free weights, machines, and bodyweight exercises. Suitable for all fitness levels.",
+      "published": true
+    },
+    {
+      "id": "59a1",
+      "name": "Cardio Conditioning Program",
+      "description": "Enhance cardiovascular health and endurance with HIIT, running, and aerobic classes. Perfect for weight loss and stamina.",
+      "published": true
+    },
+    {
+      "id": "ff9d",
+      "name": " Flexibility and Mobility Program",
+      "description": "Improve range of motion and prevent injuries with yoga, Pilates, and stretching exercises. Suitable for all fitness levels.",
+      "published": true
+    },
+    {
+      "id": "93b3",
+      "name": "Weight Loss Program",
+      "description": "Achieve your weight loss goals with a combination of cardio, strength training, and nutrition guidance. Designed to burn fat and boost metabolism.",
+      "published": true
+    },
+    {
+      "id": "5a58",
+      "name": "High-Intensity Interval Training (HIIT) Program",
+      "description": "Maximize your workout efficiency with short, intense bursts of exercise followed by rest. Perfect for burning calories and building endurance in minimal time.",
+      "published": true
+    }
+  ],
+  "contents": [
+    {
+      "id": "1",
+      "title": "New Year Offer",
+      "description": "Get 20% off on new memberships",
+      "published": true
+    },
+    {
+      "id": "d6fe",
+      "title": "holiday",
+      "description": "in each idd its our public holiday",
+      "published": true
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    }
+  ]
+}
